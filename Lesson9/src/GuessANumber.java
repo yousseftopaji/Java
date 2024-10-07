@@ -1,4 +1,3 @@
-import javax.swing.plaf.IconUIResource;
 import java.util.Random;
 import java.util.Scanner;
 
